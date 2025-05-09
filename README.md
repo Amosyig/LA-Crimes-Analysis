@@ -108,6 +108,8 @@ The Power BI **data model** was automatically generated and adjusted to define t
 The Power BI dashboard contains interactive visuals that explore:
 
 ## 📊 Overview
+![Alt text](main/1st.png)
+
 
 A total of over one million crimes—precisely 1,005,198—were recorded across the 21 areas of Los Angeles. Among these areas, Central stood out with the highest number of incidents, highlighting it as a focal point of concern. The average age of victims across all reported crimes was 29 years, showing that young adults continue to be the most vulnerable group.
 
